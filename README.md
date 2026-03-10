@@ -1,5 +1,6 @@
 # JAVA_Hightech_20260310
 JAVA class contents
+(수업순서 : 문법위주 공부-> web framework)
 ================================================
 [1] 컴퓨터
 (1) Computer ? -> 정보(문자,숫자(정수,실수)로 표현)/처리/시스템
@@ -44,3 +45,5 @@ JAVA class contents
 (3) 반복논리
 
 [4] 자바 개발환경
+* (컴파일러용)JDK(자바개발키트), 이클립스(Eclipse)설치(설치시 IDE말고 Enterprise 버전으로 받기)
+* 이클립스 자주 쓰는 단축키 : ctrl+shift+O (자동 임포트)
